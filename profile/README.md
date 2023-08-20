@@ -4,7 +4,7 @@ Welcome to **CapyFile** organization. Here you will find our project's source co
 
 ## Documentation
 
-Documentation can be found at [documentation](https://github.com/hawks-atlanta/documentation)
+Documentation can be found at [documentation](https://github.com/hawks-atlanta/docs)
 
 ## Deployment
 
